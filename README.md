@@ -57,4 +57,3 @@ python main.py --help
 - Валидация ответа через Pydantic
 - Retry (например, tenacity) и логирование
 - Web: FastAPI + загрузка файла
-```
